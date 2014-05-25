@@ -10,7 +10,7 @@ namespace ModSimulator
     {
         /// <summary>
         /// The main entry point for the application.
-        /// github test edit
+        /// sync download test
         /// </summary>
         [STAThread]
         static void Main()
